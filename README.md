@@ -1,23 +1,23 @@
 # CoYoDuDe
 
-Independent developer building practical open-source tools for Linux, self-hosting, networking, embedded systems, automation, and home-lab operations.
+Unabhängiger Entwickler praktischer Open-Source-Werkzeuge für Linux, Selfhosting, Netzwerke, Embedded-Systeme, Automatisierung und Home-Lab-Betrieb.
 
-## Projects
+## Projekte
 
-- [codex-goal-watch](https://github.com/CoYoDuDe/codex-goal-watch) — fail-closed GNU screen supervisor for usage-limited Codex CLI goals.
-- [RiddleMatrix](https://github.com/CoYoDuDe/RiddleMatrix) — public open-source project maintained by CoYoDuDe.
-- [Poststelle](https://github.com/CoYoDuDe/Poststelle) — public open-source project maintained by CoYoDuDe.
-- [ExpanderPiSetup](https://github.com/CoYoDuDe/ExpanderPiSetup) — Raspberry Pi setup and expansion tooling.
-- [DPlus_Simulator](https://github.com/CoYoDuDe/DPlus_Simulator) — public simulator project.
+- [codex-goal-watch](https://github.com/CoYoDuDe/codex-goal-watch) — Fail-closed-Supervisor für usage-limitierte Codex-CLI-Goals in GNU screen.
+- [RiddleMatrix](https://github.com/CoYoDuDe/RiddleMatrix) — Firmware- und Systemprojekt für LED-Matrix-Steuerung.
+- [Poststelle](https://github.com/CoYoDuDe/Poststelle) — Desktop-Anwendung zur Erfassung eingehender Sendungen.
+- [ExpanderPiSetup](https://github.com/CoYoDuDe/ExpanderPiSetup) — Setup- und Erweiterungswerkzeuge für Raspberry Pi und Venus OS.
+- [DPlus_Simulator](https://github.com/CoYoDuDe/DPlus_Simulator) — Öffentliches Simulator-Projekt.
 
-More projects and information are available at [DNSmith](https://dnsmith.net/).
+Weitere Projekte und Informationen gibt es auf [DNSmith](https://dnsmith.net/).
 
-## Support
+## Unterstützung
 
-My projects are independently developed and provided free of charge. Voluntary support helps cover infrastructure, servers, domains, testing, maintenance, and continued development.
+Meine Projekte werden unabhängig entwickelt und kostenlos bereitgestellt. Freiwillige Unterstützung hilft bei Infrastruktur, Servern, Domains, Tests, Wartung und Weiterentwicklung.
 
 - [PayPal](https://paypal.me/CoYoDuDe)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/CoYoDuDe)
-- [DNSmith and other projects](https://dnsmith.net/)
+- [DNSmith und weitere Projekte](https://dnsmith.net/)
 
-Support is entirely voluntary. There is no subscription requirement and support does not create an entitlement to specific features or personal support.
+Unterstützung ist vollständig freiwillig. Es gibt keinen Abo-Zwang und daraus entsteht kein Anspruch auf bestimmte Funktionen oder persönlichen Support.
